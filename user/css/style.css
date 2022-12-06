@@ -1,0 +1,95 @@
+.con-nota {
+    width: 70%;
+    margin-left: 200px;
+    margin-top: 60px;
+  }
+  .con-nota h1 {
+    font-size: 27px;
+    padding-bottom: 40px;
+  }
+  
+  .nota {
+    margin: auto;
+    width: 90%;
+    padding-bottom: 40px;
+    color: black;
+  }
+  
+  .con-nota a {
+    text-decoration: none;
+  }
+  .nota h2 {
+    font-size: 22px;
+  }
+  .nota h3 {
+    font-size: 20px;
+    margin-top: 15px;
+  }
+  .nota .line {
+    height: 3px;
+    width: 100%;
+    background-color: #f2dabd;
+    border-radius: 10px;
+    margin-top: 15px;
+  }
+  .con-denota {
+    width: 70%;
+    margin: auto;
+    margin-top: 40px;
+  }
+  .con-denota h1 {
+    font-size: 27px;
+    padding-bottom: 10px;
+  }
+  .denota {
+    margin-top: 40px;
+    background-color: #f9f6f4;
+    border-radius: 10px;
+    height: 480px;
+    overflow: hidden;
+    overflow-y: scroll;
+  }
+  .denota .tb1 {
+    margin: auto;
+    width: 90%;
+    padding-top: 50px;
+  }
+  .denota th {
+    padding-bottom: 30px;
+    font-size: 24px;
+  }
+  .th1 {
+    width: 46%;
+    text-align: left;
+  }
+  .th2,
+  .th3,
+  .th4 {
+    width: 18%;
+    text-align: center;
+  }
+  .denota tr td {
+    font-size: 20px;
+    padding-bottom: 20px;
+  }
+  .denota-jumlah {
+    text-align: center;
+  }
+  .denota-harga {
+    padding-left: 30px;
+  }
+  .total-harga {
+    margin: auto;
+    width: 90%;
+    padding-top: 35px;
+  }
+  .total-harga th {
+    font-size: 27px;
+  
+    padding-bottom: 45px;
+    margin-top: -20px;
+  }
+  
+  .total-harga1 {
+    text-align: left;
+  }
